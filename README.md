@@ -11,11 +11,10 @@ serve as proxies for remote objects.
 Q-Connection works in Node and other CommonJS module loaders like
 [Browserify][], [Mr][], and [Montage][].
 
-[Q]: https://github.com/kriskowal/q
-[Browserify]: https://github.com/substack/node-browserify
-[Mr]: https://github.com/kriskowal/mr
-[Montage]: https://github.com/montagejs/montage
-
+[Q]: https://github.com/Unity-Billal-mesloub/q
+[Browserify]: https://github.com/Unity-Billal-mesloub/node-browserify
+[Mr]: https://github.com/Unity-Billal-mesloub/mr
+[Montage]: https://github.com/Unity-Billal-mesloub/montage
 This is how it looks:
 
 ```javascript
